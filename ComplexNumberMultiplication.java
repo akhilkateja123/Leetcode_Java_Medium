@@ -23,9 +23,4 @@ public class ComplexNumberMultiplication {
 
 	}
 
-	public static void main(String... args) {
-		ComplexNumberMultiplication obj = new ComplexNumberMultiplication();
-		System.out.println(obj.complexNumberMultiply("78+-76i", "-86+72i"));
-	}
-
 }
